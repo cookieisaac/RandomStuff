@@ -35,11 +35,6 @@ Another hack is utilizing the Jupyter Notebook.
 
 GitHub has built-in support for rendering .ipynb files. You can write inline and display LaTeX code in the notebook and GitHub will render it for you.
 
-Here's a sample notebook file: https://gist.github.com/cyhsutw/d5983d166fb70ff651f027b2aa56ee4e
+For example, what I did is to edit the notebook and then simply export the finished notebook to here.
 
-
-
-
-`$\|\vec x\|_2 = \sqrt{x_1^2+x_2^2}$`
-
-$\|\vec x\|_2 = \sqrt{x_1^2+x_2^2}$
+See example ntobook here: https://github.com/cookieisaac/RandomStuff/blob/master/MLU-Math01.ipynb
