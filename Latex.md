@@ -43,7 +43,6 @@ See example ntobook here: https://github.com/cookieisaac/RandomStuff/blob/master
 
 Type | Latex | Formula 
 --|--|--
-
 Dot Product | `$ A\cdot B $` | <img src="https://latex.codecogs.com/gif.latex?\inline&space;$&space;A\cdot&space;B&space;$" title="$ A\cdot B $" />
 Hadamard Product | `$A \circ B$` | <img src="https://latex.codecogs.com/gif.latex?\inline&space;$&space;A\circ&space;B&space;$" title="$ A\circ B $" />
 Matrx Transpose | `$ A^\top = \begin{pmatrix} 1 & 2 & 3 \\ -1 & 0 & 1 \\ 1 & 1 & 1 \end{pmatrix} $` | <img src="https://latex.codecogs.com/gif.latex?\inline&space;$&space;A^\top&space;=&space;\begin{pmatrix}&space;1&space;&&space;2&space;&&space;3&space;\\&space;-1&space;&&space;0&space;&&space;1&space;\\&space;1&space;&&space;1&space;&&space;1&space;\end{pmatrix}&space;$" title="$ A^\top = \begin{pmatrix} 1 & 2 & 3 \\ -1 & 0 & 1 \\ 1 & 1 & 1 \end{pmatrix} $" />
