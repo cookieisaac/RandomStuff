@@ -38,3 +38,13 @@ GitHub has built-in support for rendering .ipynb files. You can write inline and
 For example, what I did is to edit the notebook and then simply export the finished notebook to here.
 
 See example ntobook here: https://github.com/cookieisaac/RandomStuff/blob/master/MLU-Math01.ipynb
+
+## Common Patterns
+
+Type | Latex | Formula 
+--|--|--
+Hadamard Product | `$A \circ B$` | <img src="https://latex.codecogs.com/gif.latex?\inline&space;$&space;A\circ&space;B&space;$" title="$ A\circ B $" />
+Calculating vector angle | `$$\theta = \arccos \left(\frac{\vec v \cdot \vec w}{\|\vec v\| \|\vec w\|}\right)$$` | <img src="https://latex.codecogs.com/gif.latex?\inline&space;$$&space;\theta&space;=&space;\arccos&space;\left(\frac{\vec&space;v&space;\cdot&space;\vec&space;w}{\|\vec&space;v\|&space;\|\vec&space;w\|}\right)&space;$$" title="$$ \theta = \arccos \left(\frac{\vec v \cdot \vec w}{\|\vec v\| \|\vec w\|}\right) $$" /> 
+
+
+
