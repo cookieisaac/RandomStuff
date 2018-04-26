@@ -68,5 +68,9 @@ With larger matrices, https://math.stackexchange.com/a/710888 One major theme in
 
 In the subject of SVD, an important matrix decomposition is the aptly-named singular value decomposition. This writes an arbitrary matrix A in the form A=UDV^H where D is a nonnegative, diagonal matrix whose entries are called the singular values, U and V are orthogonal (unitary in the complex case), and VH is the transpose of V (or conjugate-transpose if complex entries are allowed). A diagonal matrix can be thought of as stretching a basis by the corresponding singular values, and an orthogonal matrix is a rotation or reflection. Thus, this decomposition sees A as a composition of a sort of rotation (transposed), a stretching, and finally another rotation.
 
-### Matrix Inverse, Singular Matrix and Linear Dependence
+### Determinant, Matrix Inverse, and Linear Dependence
 
+* Inverse: A' * A = I
+* Linear Dependent: delta(A) = 0
+* Determinant of Matrix: The change in area size, where as the sign indicates flipped or not
+e.g.: A area of 100 transformed by [[2, 3],[1, 2]] will still be 100, since the determinant of the matrix is 1.
