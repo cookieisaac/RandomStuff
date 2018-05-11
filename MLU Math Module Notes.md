@@ -13,6 +13,8 @@ Model Building | Probability
 Optimization | Single/Multiple-variable(s) Calculus
 Training | --
 
+[VERY GOOD Linear Algebra Intuition Here](https://www.youtube.com/watch?v=XkY2DOUCWMU&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=4)
+
 ## Vector/Matrix
 
 ### Representation
