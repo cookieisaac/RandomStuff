@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         TD Personal Summary Without Mortgage
 // @namespace    http://ikema.tampermonkey.net/
 // @version      0.1
 // @description  Update TD Personal Summary excluding Mortgage Amount and Home Line of Credit
